@@ -71,3 +71,6 @@ The database schema consists of the following tables:
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
+
+## Walkthrough Video
+[https://drive.google.com/file/d/1FrHDyjb4YFxW2bRfqCu3Su5yeyayoI7k/view]
